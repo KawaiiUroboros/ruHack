@@ -11,7 +11,7 @@ const data: AlgorithmT[] = [
         " including chance event outcomes, resource costs, and utility. " +
         "It is one way to display an algorithm that only contains conditional control statements",
     image: img1,
-    url: "https://kawaiiuroboros.github.io/decision-tree/"
+    url: "https://forestofdreams.github.io/decision-tree/"
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const data: AlgorithmT[] = [
         "likelihood or maximum a posteriori (MAP) estimates of parameters in statistical models, " +
         "where the model depends on unobserved latent variables. ",
     image: img2,
-    url: "https://kawaiiuroboros.github.io/em/"
+    url: "https://forestofdreams.github.io/em/"
   },
 ];
 
